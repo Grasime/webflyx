@@ -1,0 +1,63 @@
+[33mcommit 9befee6bf39d0eb092e6d6ae9ddbd12f2e956b93[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Grasime <davidstefan_16@yahoo.com>
+Date:   Sat Aug 16 17:48:33 2025 +0100
+
+    K: new commit
+
+[33mcommit 26bbbcf48f642b882596a4283ea48792fd524909[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Grasime <37048660+Grasime@users.noreply.github.com>
+Date:   Sat Aug 16 17:47:13 2025 +0100
+
+    Update classics.csv
+    
+    J: update classics.csv
+
+[33mcommit 8c6621066f05198ea5e4ac06613f19fd580421cf[m
+Author: Grasime <37048660+Grasime@users.noreply.github.com>
+Date:   Sat Aug 16 17:47:01 2025 +0100
+
+    Update classics.csv
+
+[33mcommit 49303c36c2343c125c89df702aafc4fc63aae9db[m
+Author: Grasime <davidstefan_16@yahoo.com>
+Date:   Fri Aug 15 20:18:11 2025 +0100
+
+    G: final
+
+[33mcommit 754799bcee25f094b6997a614c2702ed66bdcc8e[m
+Merge: 5476ca7 d054956
+Author: Grasime <davidstefan_16@yahoo.com>
+Date:   Fri Aug 15 16:10:46 2025 +0100
+
+    Merge branch 'add_classics'
+    F: Merge branch 'add_classics'
+
+[33mcommit 5476ca7bb03059108941aa95af56ac154a30707b[m
+Author: Grasime <davidstefan_16@yahoo.com>
+Date:   Fri Aug 15 16:05:55 2025 +0100
+
+    E: testing
+
+[33mcommit d054956223e30c3c60f77835b3bd48da31b1d0cd[m
+Author: Grasime <davidstefan_16@yahoo.com>
+Date:   Fri Aug 15 15:15:40 2025 +0100
+
+    D: test
+
+[33mcommit fd753df38846c16ef10c5b4f803cb8423a65b6e1[m
+Author: Grasime <davidstefan_16@yahoo.com>
+Date:   Fri Aug 15 10:56:59 2025 +0100
+
+    C: added files
+
+[33mcommit c66087fb4882b2a5e87e3937b6e2299f62805e4d[m
+Author: Grasime <davidstefan_16@yahoo.com>
+Date:   Fri Aug 15 10:42:39 2025 +0100
+
+    B: test
+
+[33mcommit 0f420e8c8989d7b7886fb220f6a1e8c244896bee[m
+Author: Grasime <davidstefan_16@yahoo.com>
+Date:   Fri Aug 15 08:15:36 2025 +0100
+
+    A: add contents.md
